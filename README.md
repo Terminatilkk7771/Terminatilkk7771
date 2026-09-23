@@ -1,18 +1,18 @@
-# Привіт! 👋 
+# Hi there! 👋
 
-Я 18-річний студент з України, навчаюся в технікумі. Я захоплююся програмуванням, вивченням нових технологій та створенням цікавих проектів. 
+I am an 18-year-old student from Ukraine, currently studying at a technical college. I am passionate about programming, learning new technologies, and building interesting projects.
 
-### 🛠 Технології та інструменти, з якими я працюю:
-- **Мови програмування:** C++, Python, HTML, CSS, SQL.
-- **Бази даних:** SQLite, Microsoft Access.
-- **Інструменти:** Visual Studio Code, Qt Creator, Git, VirtualBox.
+### 🛠 Technologies and tools I work with:
+- **Programming Languages:** C++, Python, HTML, CSS, SQL.
+- **Databases:** SQLite, Microsoft Access.
+- **Tools:** Visual Studio Code, Qt Creator, Git, VirtualBox.
 
-### 🚀 Що я роблю зараз:
-- Поглиблено вивчаю об'єктно-орієнтоване програмування (ООП) на C++.
-- Розробляю Telegram-ботів та скрипти для автоматизації процесів на Python (наприклад, для віддаленого керування ПК).
-- Практикуюся у створенні структурованих баз даних та написанні SQL-запитів.
-- Верстаю веб-сторінки за допомогою HTML та CSS.
+### 🚀 What I'm currently working on:
+- Deepening my knowledge of Object-Oriented Programming (OOP) in C++.
+- Developing Telegram bots and automation scripts in Python (for example, for remote PC control).
+- Practicing structured database design and writing SQL queries.
+- Building web page layouts using HTML and CSS.
 
-### 🎮 Мої захоплення поза програмуванням:
-У вільний від навчання час я цікавлюся комп'ютерним залізом, налаштуванням мережевого обладнання та технологіями віртуальної реальності (PCVR). Також люблю грати в CS2, EA Sports FC 27 та різні симулятори.
+### 🎮 Hobbies outside of coding:
+In my free time, I am interested in PC hardware, network configurations, and Virtual Reality (PCVR) technologies. I also enjoy playing CS2, EA Sports FC 27, and various simulators.
 
