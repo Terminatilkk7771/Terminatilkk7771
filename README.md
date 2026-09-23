@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привіт! 👋 
 
-<!--
-**Terminatilkk7771/Terminatilkk7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я 18-річний студент з України, навчаюся в технікумі. Я захоплююся програмуванням, вивченням нових технологій та створенням цікавих проектів. 
 
-Here are some ideas to get you started:
+### 🛠 Технології та інструменти, з якими я працюю:
+- **Мови програмування:** C++, Python, HTML, CSS, SQL.
+- **Бази даних:** SQLite, Microsoft Access.
+- **Інструменти:** Visual Studio Code, Qt Creator, Git, VirtualBox.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Що я роблю зараз:
+- Поглиблено вивчаю об'єктно-орієнтоване програмування (ООП) на C++.
+- Розробляю Telegram-ботів та скрипти для автоматизації процесів на Python (наприклад, для віддаленого керування ПК).
+- Практикуюся у створенні структурованих баз даних та написанні SQL-запитів.
+- Верстаю веб-сторінки за допомогою HTML та CSS.
+
+### 🎮 Мої захоплення поза програмуванням:
+У вільний від навчання час я цікавлюся комп'ютерним залізом, налаштуванням мережевого обладнання та технологіями віртуальної реальності (PCVR). Також люблю грати в CS2, EA Sports FC,та різні симулятори.
+
+### 📫 Як мене знайти:
+- GitHub: [@Terminatikk7771](https://github.com/Terminatikk7771)
